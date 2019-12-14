@@ -11,3 +11,5 @@ command : `git clone https://github.com/Aaaaalpha/basic-game-santa-claus.git`
 
 # Warning
 In order to launch the site, please change the variables in the `.env`.
+
+Remember to add yourdomain/callback to your url redirects (https://discordapp.com/developers/applications/)
