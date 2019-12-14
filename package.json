@@ -19,6 +19,9 @@
   "homepage": "https://github.com/Aaaaalpha/basic-game-santa-claus#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "ejs": "^3.0.1"
+    "ejs": "^3.0.1",
+    "btoa": "^1.2.1",
+    "node-fetch": "^2.6.0",
+    "express-session": "^1.16.1"
   }
 }
