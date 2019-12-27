@@ -1,5 +1,5 @@
-# basic game santa claus
-It's a simple game.
+# basic-oauth-2-discord
+It's a example of oauth 2 discord.
 
 # Required
 CLIENT_ID : find it in https://discordapp.com/developers/applications/
