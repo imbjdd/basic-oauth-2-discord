@@ -1,3 +1,4 @@
+Problem with the oauth, fix it soon.
 # basic-oauth-2-discord
 It's a example of oauth 2 discord.
 
