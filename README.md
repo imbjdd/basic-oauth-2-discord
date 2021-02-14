@@ -1,20 +1,15 @@
-Problem with the oauth, fix it soon.
-# basic-oauth-2-discord
-It's a example of oauth 2 discord.
+# Basic Oauth2 Discord example
+It's a basic example of using oauth2 of discord.
 
-# Required
-CLIENT_ID : find it in https://discordapp.com/developers/applications/
+![](https://pressover.news/wp-content/uploads/2018/12/discord.jpg)
 
-CLIENT_SECRET : same
+# Instructions
+You need to remove `.example` from the `.env.example` file.
+Also, you need to fill in this file with corrects informations (don't worry, the file is commented).
 
 # Installation
-command : `git clone https://github.com/Aaaaalpha/basic-game-santa-claus.git`
+`git clone https://github.com/Aaaaalpha/basic-game-santa-claus.git`
 
-# Warning
-In order to launch the site, please change the variables in the `.env`.
+`npm install`
 
-!!! Add in the oauth of your application the link `yoursite.com/callback`
-
-Remember to add yourdomain/callback to your url redirects (https://discordapp.com/developers/applications/)
-
-<p>With <a href="https://github.com/http-x-forwarded-for">my friend</a></p>
+`npm start`
