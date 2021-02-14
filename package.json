@@ -1,5 +1,5 @@
 {
-  "name": "basic-game-santa-claus",
+  "name": "basic-oauth-2-discord",
   "version": "1.0.0",
   "description": "A basic game",
   "main": "app.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Aaaaalpha/basic-game-santa-claus.git"
+    "url": "git+https://github.com/6346563751/basic-oauth-2-discord"
   },
-  "author": "Ezd (Aaaaalpha)",
+  "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Aaaaalpha/basic-game-santa-claus/issues"
+    "url": "https://github.com/6346563751/basic-oauth-2-discord/issues"
   },
-  "homepage": "https://github.com/Aaaaalpha/basic-game-santa-claus#readme",
+  "homepage": "https://github.com/6346563751/basic-oauth-2-discord#readme",
   "dependencies": {
     "btoa": "^1.2.1",
     "ejs": "^3.0.1",
