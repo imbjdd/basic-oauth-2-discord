@@ -18,6 +18,7 @@
   "homepage": "https://github.com/6346563751/basic-oauth-2-discord#readme",
   "dependencies": {
     "btoa": "^1.2.1",
+    "dotenv": "^8.2.0",
     "ejs": "^3.0.1",
     "express": "^4.17.1",
     "express-session": "^1.16.1",
