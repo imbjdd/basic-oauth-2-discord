@@ -17,11 +17,11 @@
   },
   "homepage": "https://github.com/6346563751/basic-oauth-2-discord#readme",
   "dependencies": {
+    "axios": "^0.21.1",
     "btoa": "^1.2.1",
     "dotenv": "^8.2.0",
     "ejs": "^3.0.1",
     "express": "^4.17.1",
-    "express-session": "^1.16.1",
-    "node-fetch": "^2.6.0"
+    "express-session": "^1.16.1"
   }
 }
