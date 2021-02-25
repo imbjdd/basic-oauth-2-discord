@@ -1,3 +1,5 @@
+<img align="right" height="144x" width="256px" alt="Banner" src="https://pressover.news/wp-content/uploads/2018/12/discord.jpg">
+
 # Basic Oauth2 Discord example
 It's a basic example of using oauth2 of discord.
 
