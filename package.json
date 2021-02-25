@@ -4,7 +4,9 @@
   "description": "A basic example of using oauth 2 on discord",
   "main": "app.js",
   "scripts": {
-    "start": "node lib/index.js"
+    "start": "node lib/index.js",
+    "test": "standard",
+    "standard": "standard --fix"
   },
   "repository": {
     "type": "git",
