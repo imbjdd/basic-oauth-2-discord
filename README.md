@@ -8,7 +8,7 @@ It's a basic example of using oauth2 of discord.
 - Also, you need to fill in this file with corrects informations (don't worry, the file is commented).
 
 # Installation
-- `git clone https://github.com/Aaaaalpha/basic-game-santa-claus.git`
+- `git clone https://github.com/6346563751/basic-oauth-2-discord.git
 - `npm install`
 - `npm start`
 
