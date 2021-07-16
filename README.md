@@ -8,12 +8,29 @@ It's a basic example of using oauth2 of discord.
 - Also, you need to fill in this file with corrects informations (don't worry, the file is commented).
 
 # Installation
-- `git clone https://github.com/6346563751/basic-oauth-2-discord.git
-- `npm install`
-- `npm start`
+
+**WARNING :** Nodejs and npm (or yarn) are required to deploy the project.
+
+First, clone the repository :
+```
+git clone https://github.com/6346563751/curlink.git
+cd curlink
+```
+
+Next, install packages :
+```
+npm install # for npm
+yarn install # for yarn
+```
+
+Then, run the `start` script :
+```
+npm run start
+yarn start
+```
 
 # Support
-Need some help ? Send me a mail !
+Need some help ? Send me an e-mail !
 
 
 ## Contributing
